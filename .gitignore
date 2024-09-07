@@ -124,6 +124,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+chat_room_sync_to_async/.venv
+chat_room_sync_to_async/.env
 env/
 venv/
 ENV/
